@@ -1,0 +1,14 @@
+{
+  "name": "taskman",
+  "version": "1.0.0",
+  "description": "Electron based desktop app which allows user to schedule tasks",
+  "main": "index.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "Rohan Antony",
+  "license": "ISC",
+  "dependencies": {
+    "electron": "^2.0.4"
+  }
+}
